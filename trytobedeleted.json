@@ -1,0 +1,193 @@
+4ASSAISONNEMENTFILET FUMEPETIT SALEPUR PORC A L AILSAUCISSON JAMBON 
+{"distinctProducts":["ASSAISONNEMENT","FILET FUME","PETIT SALE","PUR PORC A L AIL","SAUCISSON JAMBON"],
+"recap":
+    [{"ASSAISONNEMENT":
+        {"Description":"ASSAISONNEMENT",
+        "Date_Forthe":"2018-12-11",
+        "OrderID":"21","Quantity":"1",
+        "Weight":"2",
+        "CustomerLN":"JACQMART",
+        "sous_vide":"Non",
+        "nbre_pers":"3",
+        "autre_info":"4"}},
+        {"ASSAISONNEMENT":
+        {"Description":"ASSAISONNEMENT",
+            "Date_Forthe":"2018-12-11",
+            "OrderID":"21",
+            "Quantity":"1",
+            "Weight":"2",
+            "CustomerLN":"JACQMART",
+            "sous_vide":"Non",
+            "nbre_pers":"3",
+            "autre_info":"4"},
+        "FILET FUME":{"Description":"FILET FUME",
+                    "Date_Forthe":"2018-12-11",
+                    "OrderID":"52",
+                    "Quantity":"5",
+                    "Weight":"5",
+                    "CustomerLN":"SEO",
+                    "sous_vide":"Non",
+                    "nbre_pers":"5",
+                    "autre_info":"5"}
+                    },
+    {"ASSAISONNEMENT":
+        {"Description":"ASSAISONNEMENT",
+            "Date_Forthe":"2018-12-11",
+            "OrderID":"21",
+            "Quantity":"1",
+            "Weight":"2",
+            "CustomerLN":"JACQMART",
+            "sous_vide":"Non",
+            "nbre_pers":"3",
+            "autre_info":"4"},
+            "FILET FUME":{"Description":"FILET FUME","Date_Forthe":"2018-12-11","OrderID":"52","Quantity":"5","Weight":"5","CustomerLN":"SEO","sous_vide":"Non","nbre_pers":"5","autre_info":"5"},"PETIT SALE":{"Description":"PETIT SALE","Date_Forthe":"2018-12-11","OrderID":"54","Quantity":"1","Weight":"1","CustomerLN":"SEO","sous_vide":"Non","nbre_pers":"1","autre_info":"1"}},{"ASSAISONNEMENT":{"Description":"ASSAISONNEMENT","Date_Forthe":"2018-12-11","OrderID":"21","Quantity":"1","Weight":"2","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"3","autre_info":"4"},"FILET FUME":{"Description":"FILET FUME","Date_Forthe":"2018-12-11","OrderID":"52","Quantity":"5","Weight":"5","CustomerLN":"SEO","sous_vide":"Non","nbre_pers":"5","autre_info":"5"},"PETIT SALE":{"Description":"PETIT SALE","Date_Forthe":"2018-12-11","OrderID":"54","Quantity":"1","Weight":"1","CustomerLN":"SEO","sous_vide":"Non","nbre_pers":"1","autre_info":"1"},"PUR PORC A L AIL":{"Description":"PUR PORC A L AIL","Date_Forthe":"2018-12-11","OrderID":"45","Quantity":"4","Weight":"4","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"4","autre_info":"4"}},{"ASSAISONNEMENT":{"Description":"ASSAISONNEMENT","Date_Forthe":"2018-12-11","OrderID":"21","Quantity":"1","Weight":"2","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"3","autre_info":"4"},"FILET FUME":{"Description":"FILET FUME","Date_Forthe":"2018-12-11","OrderID":"52","Quantity":"5","Weight":"5","CustomerLN":"SEO","sous_vide":"Non","nbre_pers":"5","autre_info":"5"},"PETIT SALE":{"Description":"PETIT SALE","Date_Forthe":"2018-12-11","OrderID":"54","Quantity":"1","Weight":"1","CustomerLN":"SEO","sous_vide":"Non","nbre_pers":"1","autre_info":"1"},"PUR PORC A L AIL":{"Description":"PUR PORC A L AIL","Date_Forthe":"2018-12-11","OrderID":"66","Quantity":"2","Weight":"","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"1","autre_info":"hh"}},{"ASSAISONNEMENT":{"Description":"ASSAISONNEMENT","Date_Forthe":"2018-12-11","OrderID":"21","Quantity":"1","Weight":"2","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"3","autre_info":"4"},"FILET FUME":{"Description":"FILET FUME","Date_Forthe":"2018-12-11","OrderID":"52","Quantity":"5","Weight":"5","CustomerLN":"SEO","sous_vide":"Non","nbre_pers":"5","autre_info":"5"},"PETIT SALE":{"Description":"PETIT SALE","Date_Forthe":"2018-12-11","OrderID":"54","Quantity":"1","Weight":"1","CustomerLN":"SEO","sous_vide":"Non","nbre_pers":"1","autre_info":"1"},"PUR PORC A L AIL":{"Description":"PUR PORC A L AIL","Date_Forthe":"2018-12-11","OrderID":"66","Quantity":"3","Weight":"","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"2","autre_info":"kk"}},{"ASSAISONNEMENT":{"Description":"ASSAISONNEMENT","Date_Forthe":"2018-12-11","OrderID":"21","Quantity":"1","Weight":"2","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"3","autre_info":"4"},"FILET FUME":{"Description":"FILET FUME","Date_Forthe":"2018-12-11","OrderID":"52","Quantity":"5","Weight":"5","CustomerLN":"SEO","sous_vide":"Non","nbre_pers":"5","autre_info":"5"},"PETIT SALE":{"Description":"PETIT SALE","Date_Forthe":"2018-12-11","OrderID":"54","Quantity":"1","Weight":"1","CustomerLN":"SEO","sous_vide":"Non","nbre_pers":"1","autre_info":"1"},"PUR PORC A L AIL":{"Description":"PUR PORC A L AIL","Date_Forthe":"2018-12-11","OrderID":"67","Quantity":"4","Weight":"","CustomerLN":"SEO","sous_vide":"Non","nbre_pers":"4","autre_info":"bb"}},{"ASSAISONNEMENT":{"Description":"ASSAISONNEMENT","Date_Forthe":"2018-12-11","OrderID":"21","Quantity":"1","Weight":"2","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"3","autre_info":"4"},"FILET FUME":{"Description":"FILET FUME","Date_Forthe":"2018-12-11","OrderID":"52","Quantity":"5","Weight":"5","CustomerLN":"SEO","sous_vide":"Non","nbre_pers":"5","autre_info":"5"},"PETIT SALE":{"Description":"PETIT SALE","Date_Forthe":"2018-12-11","OrderID":"54","Quantity":"1","Weight":"1","CustomerLN":"SEO","sous_vide":"Non","nbre_pers":"1","autre_info":"1"},"PUR PORC A L AIL":{"Description":"PUR PORC A L AIL","Date_Forthe":"2018-12-11","OrderID":"67","Quantity":"4","Weight":"","CustomerLN":"SEO","sous_vide":"Non","nbre_pers":"4","autre_info":"bb"},"SAUCISSON JAMBON":{"Description":"SAUCISSON JAMBON","Date_Forthe":"2018-12-11","OrderID":"53","Quantity":"1","Weight":"1","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"1","autre_info":"1"}}]}
+
+
+ASSAISONNEMENTFILET FUMEPETIT SALEPUR PORC A L AILSAUCISSON JAMBON
+{"distinctProducts":["ASSAISONNEMENT","FILET FUME","PETIT SALE","PUR PORC A L AIL","SAUCISSON JAMBON"],
+    "recap":[{"Description":"ASSAISONNEMENT","Date_Forthe":"2018-12-11","OrderID":"21","Quantity":"1","Weight":"2","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"3","autre_info":"4"},
+        {"Description":"FILET FUME","Date_Forthe":"2018-12-11","OrderID":"52","Quantity":"5","Weight":"5","CustomerLN":"SEO","sous_vide":"Non","nbre_pers":"5","autre_info":"5"},
+        {"Description":"PETIT SALE","Date_Forthe":"2018-12-11","OrderID":"54","Quantity":"1","Weight":"1","CustomerLN":"SEO","sous_vide":"Non","nbre_pers":"1","autre_info":"1"},
+        {"Description":"PUR PORC A L AIL","Date_Forthe":"2018-12-11","OrderID":"45","Quantity":"4","Weight":"4","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"4","autre_info":"4"},
+        {"Description":"PUR PORC A L AIL","Date_Forthe":"2018-12-11","OrderID":"66","Quantity":"2","Weight":"","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"1","autre_info":"hh"},
+        {"Description":"PUR PORC A L AIL","Date_Forthe":"2018-12-11","OrderID":"66","Quantity":"3","Weight":"","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"2","autre_info":"kk"},
+        {"Description":"PUR PORC A L AIL","Date_Forthe":"2018-12-11","OrderID":"67","Quantity":"4","Weight":"","CustomerLN":"SEO","sous_vide":"Non","nbre_pers":"4","autre_info":"bb"},
+        {"Description":"SAUCISSON JAMBON","Date_Forthe":"2018-12-11","OrderID":"53","Quantity":"1","Weight":"1","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"1","autre_info":"1"}]}
+
+
+
+        ASSAISONNEMENTFILET FUMEPETIT SALEPUR PORC A L AILSAUCISSON JAMBON {"distinctProducts":["ASSAISONNEMENT","FILET FUME","PETIT SALE","PUR PORC A L AIL","SAUCISSON JAMBON"],
+            "recap":
+            {"ASSAISONNEMENT":{"Description":"ASSAISONNEMENT","Date_Forthe":"2018-12-11","OrderID":"21","Quantity":"1","Weight":"2","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"3","autre_info":"4"},
+            "FILET FUME":{"Description":"FILET FUME","Date_Forthe":"2018-12-11","OrderID":"52","Quantity":"5","Weight":"5","CustomerLN":"SEO","sous_vide":"Non","nbre_pers":"5","autre_info":"5"},
+            "PETIT SALE":{"Description":"PETIT SALE","Date_Forthe":"2018-12-11","OrderID":"54","Quantity":"1","Weight":"1","CustomerLN":"SEO","sous_vide":"Non","nbre_pers":"1","autre_info":"1"},
+            "PUR PORC A L AIL":{"Description":"PUR PORC A L AIL","Date_Forthe":"2018-12-11","OrderID":"67","Quantity":"4","Weight":"","CustomerLN":"SEO","sous_vide":"Non","nbre_pers":"4","autre_info":"bb"},
+            "SAUCISSON JAMBON":{"Description":"SAUCISSON JAMBON","Date_Forthe":"2018-12-11","OrderID":"53","Quantity":"1","Weight":"1","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"1","autre_info":"1"}}}
+
+            ASSAISONNEMENTFILET FUMEPETIT SALEPUR PORC A L AILSAUCISSON JAMBON {"distinctProducts":["ASSAISONNEMENT","FILET FUME","PETIT SALE","PUR PORC A L AIL","SAUCISSON JAMBON"],
+                "recap":{
+                    "ASSAISONNEMENT":
+                    [{"Description":"ASSAISONNEMENT","Date_Forthe":"2018-12-11","OrderID":"21","Quantity":"1","Weight":"2","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"3","autre_info":"4"}],
+                    "FILET FUME":[{"Description":"FILET FUME","Date_Forthe":"2018-12-11","OrderID":"52","Quantity":"5","Weight":"5","CustomerLN":"SEO","sous_vide":"Non","nbre_pers":"5","autre_info":"5"}],
+                    "PETIT SALE":[{"Description":"PETIT SALE","Date_Forthe":"2018-12-11","OrderID":"54","Quantity":"1","Weight":"1","CustomerLN":"SEO","sous_vide":"Non","nbre_pers":"1","autre_info":"1"}],
+                    "PUR PORC A L AIL":
+                    [{"Description":"PUR PORC A L AIL","Date_Forthe":"2018-12-11","OrderID":"45","Quantity":"4","Weight":"4","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"4","autre_info":"4"},
+                    {"Description":"PUR PORC A L AIL","Date_Forthe":"2018-12-11","OrderID":"66","Quantity":"2","Weight":"","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"1","autre_info":"hh"},
+                    {"Description":"PUR PORC A L AIL","Date_Forthe":"2018-12-11","OrderID":"66","Quantity":"3","Weight":"","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"2","autre_info":"kk"},
+                    {"Description":"PUR PORC A L AIL","Date_Forthe":"2018-12-11","OrderID":"67","Quantity":"4","Weight":"","CustomerLN":"SEO","sous_vide":"Non","nbre_pers":"4","autre_info":"bb"}],
+                    "SAUCISSON JAMBON":[{"Description":"SAUCISSON JAMBON","Date_Forthe":"2018-12-11","OrderID":"53","Quantity":"1","Weight":"1","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"1","autre_info":"1"}]}}
+
+
+
+                    {"distinctProducts":["ASSAISONNEMENT","FILET FUME","PETIT SALE","PUR PORC A L AIL","SAUCISSON JAMBON"],
+                        "recap":{
+                            "product":{"ASSAISONNEMENT":
+                                [{"Description":"ASSAISONNEMENT","Date_Forthe":"2018-12-11","OrderID":"21","Quantity":"1","Weight":"2","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"3","autre_info":"4"}],"FILET FUME":[{"Description":"FILET FUME","Date_Forthe":"2018-12-11","OrderID":"52","Quantity":"5","Weight":"5","CustomerLN":"SEO","sous_vide":"Non","nbre_pers":"5","autre_info":"5"}],
+                                    "PETIT SALE":
+                                [{"Description":"PETIT SALE","Date_Forthe":"2018-12-11","OrderID":"54","Quantity":"1","Weight":"1","CustomerLN":"SEO","sous_vide":"Non","nbre_pers":"1","autre_info":"1"}],
+                                "PUR PORC A L AIL":
+                                [{"Description":"PUR PORC A L AIL","Date_Forthe":"2018-12-11","OrderID":"45","Quantity":"4","Weight":"4","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"4","autre_info":"4"},
+                                {"Description":"PUR PORC A L AIL","Date_Forthe":"2018-12-11","OrderID":"66","Quantity":"2","Weight":"","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"1","autre_info":"hh"},
+                                {"Description":"PUR PORC A L AIL","Date_Forthe":"2018-12-11","OrderID":"66","Quantity":"3","Weight":"","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"2","autre_info":"kk"},
+                                {"Description":"PUR PORC A L AIL","Date_Forthe":"2018-12-11","OrderID":"67","Quantity":"4","Weight":"","CustomerLN":"SEO","sous_vide":"Non","nbre_pers":"4","autre_info":"bb"}],
+                                "SAUCISSON JAMBON":[{"Description":"SAUCISSON JAMBON","Date_Forthe":"2018-12-11","OrderID":"53","Quantity":"1","Weight":"1","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"1","autre_info":"1"}]}}}
+
+
+
+
+                                {"distinctProducts":["ASSAISONNEMENT","FILET FUME","PETIT SALE","PUR PORC A L AIL","SAUCISSON JAMBON"],
+                                    "recap":
+                                    [{"product":"ASSAISONNEMENT","0":{"Description":"ASSAISONNEMENT","Date_Forthe":"2018-12-11","OrderID":"21","Quantity":"1","Weight":"2","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"3","autre_info":"4"}},
+
+                                    {"product":"FILET FUME","0":{"Description":"FILET FUME","Date_Forthe":"2018-12-11","OrderID":"52","Quantity":"5","Weight":"5","CustomerLN":"SEO","sous_vide":"Non","nbre_pers":"5","autre_info":"5"}},{"product":"PETIT SALE","0":{"Description":"PETIT SALE","Date_Forthe":"2018-12-11","OrderID":"54","Quantity":"1","Weight":"1","CustomerLN":"SEO","sous_vide":"Non","nbre_pers":"1","autre_info":"1"}},{"product":"PUR PORC A L AIL","0":{"Description":"PUR PORC A L AIL","Date_Forthe":"2018-12-11","OrderID":"45","Quantity":"4","Weight":"4","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"4","autre_info":"4"},"1":{"Description":"PUR PORC A L AIL","Date_Forthe":"2018-12-11","OrderID":"66","Quantity":"2","Weight":"","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"1","autre_info":"hh"},"2":{"Description":"PUR PORC A L AIL","Date_Forthe":"2018-12-11","OrderID":"66","Quantity":"3","Weight":"","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"2","autre_info":"kk"},"3":{"Description":"PUR PORC A L AIL","Date_Forthe":"2018-12-11","OrderID":"67","Quantity":"4","Weight":"","CustomerLN":"SEO","sous_vide":"Non","nbre_pers":"4","autre_info":"bb"}},{"product":"SAUCISSON JAMBON","0":{"Description":"SAUCISSON JAMBON","Date_Forthe":"2018-12-11","OrderID":"53","Quantity":"1","Weight":"1","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"1","autre_info":"1"}}]}
+
+
+                                    {"distinctProducts":["ASSAISONNEMENT","FILET FUME","PETIT SALE","PUR PORC A L AIL","SAUCISSON JAMBON"],
+                                    "recap":
+                                    [{"product":"ASSAISONNEMENT","0":{"Description":"ASSAISONNEMENT","Date_Forthe":"2018-12-11","OrderID":"21","Quantity":"1","Weight":"2","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"3","autre_info":"4"}},{"product":"FILET FUME","0":{"Description":"FILET FUME","Date_Forthe":"2018-12-11","OrderID":"52","Quantity":"5","Weight":"5","CustomerLN":"SEO","sous_vide":"Non","nbre_pers":"5","autre_info":"5"}},{"product":"PETIT SALE","0":{"Description":"PETIT SALE","Date_Forthe":"2018-12-11","OrderID":"54","Quantity":"1","Weight":"1","CustomerLN":"SEO","sous_vide":"Non","nbre_pers":"1","autre_info":"1"}},{"product":"PUR PORC A L AIL","0":{"Description":"PUR PORC A L AIL","Date_Forthe":"2018-12-11","OrderID":"45","Quantity":"4","Weight":"4","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"4","autre_info":"4"},"1":{"Description":"PUR PORC A L AIL","Date_Forthe":"2018-12-11","OrderID":"66","Quantity":"2","Weight":"","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"1","autre_info":"hh"},"2":{"Description":"PUR PORC A L AIL","Date_Forthe":"2018-12-11","OrderID":"66","Quantity":"3","Weight":"","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"2","autre_info":"kk"},"3":{"Description":"PUR PORC A L AIL","Date_Forthe":"2018-12-11","OrderID":"67","Quantity":"4","Weight":"","CustomerLN":"SEO","sous_vide":"Non","nbre_pers":"4","autre_info":"bb"}},{"product":"SAUCISSON JAMBON","0":{"Description":"SAUCISSON JAMBON","Date_Forthe":"2018-12-11","OrderID":"53","Quantity":"1","Weight":"1","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"1","autre_info":"1"}}]}
+
+
+                                    {"distinctProducts":["ASSAISONNEMENT","FILET FUME","PETIT SALE","PUR PORC A L AIL","SAUCISSON JAMBON"],
+                                        "recap":
+                                        [{"product":"ASSAISONNEMENT","0":{"Description":"ASSAISONNEMENT","Date_Forthe":"2018-12-11","OrderID":"21","Quantity":"1","Weight":"2","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"3","autre_info":"4"}},
+                                        {"product":"FILET FUME","0":{"Description":"FILET FUME","Date_Forthe":"2018-12-11","OrderID":"52","Quantity":"5","Weight":"5","CustomerLN":"SEO","sous_vide":"Non","nbre_pers":"5","autre_info":"5"}},{"product":"PETIT SALE","0":{"Description":"PETIT SALE","Date_Forthe":"2018-12-11","OrderID":"54","Quantity":"1","Weight":"1","CustomerLN":"SEO","sous_vide":"Non","nbre_pers":"1","autre_info":"1"}},{"product":"PUR PORC A L AIL","0":{"Description":"PUR PORC A L AIL","Date_Forthe":"2018-12-11","OrderID":"45","Quantity":"4","Weight":"4","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"4","autre_info":"4"},"1":{"Description":"PUR PORC A L AIL","Date_Forthe":"2018-12-11","OrderID":"66","Quantity":"2","Weight":"","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"1","autre_info":"hh"},"2":{"Description":"PUR PORC A L AIL","Date_Forthe":"2018-12-11","OrderID":"66","Quantity":"3","Weight":"","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"2","autre_info":"kk"},"3":{"Description":"PUR PORC A L AIL","Date_Forthe":"2018-12-11","OrderID":"67","Quantity":"4","Weight":"","CustomerLN":"SEO","sous_vide":"Non","nbre_pers":"4","autre_info":"bb"}},{"product":"SAUCISSON JAMBON","0":{"Description":"SAUCISSON JAMBON","Date_Forthe":"2018-12-11","OrderID":"53","Quantity":"1","Weight":"1","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"1","autre_info":"1"}}]}
+
+
+                                        Traffic
+Sales
+Support
+
+{"distinctProducts":["ASSAISONNEMENT","FILET FUME","PETIT SALE","PUR PORC A L AIL","SAUCISSON JAMBON"],
+    "recap":{"product":{"productdescription":[{"Description":"SAUCISSON JAMBON","Date_Forthe":"2018-12-11","OrderID":"53","Quantity":"1","Weight":"1","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"1","autre_info":"1"},{"Description":"PUR PORC A L AIL","Date_Forthe":"2018-12-11","OrderID":"66","Quantity":"2","Weight":"","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"1","autre_info":"hh"},{"Description":"PUR PORC A L AIL","Date_Forthe":"2018-12-11","OrderID":"66","Quantity":"3","Weight":"","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"2","autre_info":"kk"},{"Description":"PUR PORC A L AIL","Date_Forthe":"2018-12-11","OrderID":"67","Quantity":"4","Weight":"","CustomerLN":"SEO","sous_vide":"Non","nbre_pers":"4","autre_info":"bb"}],"0":"ASSAISONNEMENT","1":"FILET FUME","2":"PETIT SALE","3":"PUR PORC A L AIL","4":"SAUCISSON JAMBON"}}}
+
+
+    {"distinctProducts":["ASSAISONNEMENT","FILET FUME","PETIT SALE","PUR PORC A L AIL","SAUCISSON JAMBON"],
+    "recap":{"product":{"productdescription":[{"Description":"SAUCISSON JAMBON","Date_Forthe":"2018-12-11","OrderID":"53","Quantity":"1","Weight":"1","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"1","autre_info":"1"},{"Description":"PUR PORC A L AIL","Date_Forthe":"2018-12-11","OrderID":"66","Quantity":"2","Weight":"","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"1","autre_info":"hh"},{"Description":"PUR PORC A L AIL","Date_Forthe":"2018-12-11","OrderID":"66","Quantity":"3","Weight":"","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"2","autre_info":"kk"},{"Description":"PUR PORC A L AIL","Date_Forthe":"2018-12-11","OrderID":"67","Quantity":"4","Weight":"","CustomerLN":"SEO","sous_vide":"Non","nbre_pers":"4","autre_info":"bb"}]},"0":{"product":"ASSAISONNEMENT"},"1":{"product":"FILET FUME"},"2":{"product":"PETIT SALE"},"3":{"product":"PUR PORC A L AIL"},"4":{"product":"SAUCISSON JAMBON"}}}
+
+    Traffic
+Sales
+Support
+{"distinctProducts":["ASSAISONNEMENT","FILET FUME","PETIT SALE","PUR PORC A L AIL","SAUCISSON JAMBON"],
+    "recap":{"0":"ASSAISONNEMENT","product":{"productdescription":[{"Description":"SAUCISSON JAMBON","Date_Forthe":"2018-12-11","OrderID":"53","Quantity":"1","Weight":"1","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"1","autre_info":"1"},
+        {"Description":"PUR PORC A L AIL","Date_Forthe":"2018-12-11","OrderID":"66","Quantity":"2","Weight":"","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"1","autre_info":"hh"},{"Description":"PUR PORC A L AIL","Date_Forthe":"2018-12-11","OrderID":"66","Quantity":"3","Weight":"","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"2","autre_info":"kk"},{"Description":"PUR PORC A L AIL","Date_Forthe":"2018-12-11","OrderID":"67","Quantity":"4","Weight":"","CustomerLN":"SEO","sous_vide":"Non","nbre_pers":"4","autre_info":"bb"}]},"1":"FILET FUME","2":"PETIT SALE","3":"PUR PORC A L AIL","4":"SAUCISSON JAMBON"}}
+
+
+        {"distinctProducts":["ASSAISONNEMENT","FILET FUME","PETIT SALE","PUR PORC A L AIL","SAUCISSON JAMBON"],
+        "recap":{"0":{"product":"ASSAISONNEMENT"},"product":{"productdescription":[{"Description":"SAUCISSON JAMBON","Date_Forthe":"2018-12-11","OrderID":"53","Quantity":"1","Weight":"1","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"1","autre_info":"1"},{"Description":"PUR PORC A L AIL","Date_Forthe":"2018-12-11","OrderID":"66","Quantity":"2","Weight":"","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"1","autre_info":"hh"},{"Description":"PUR PORC A L AIL","Date_Forthe":"2018-12-11","OrderID":"66","Quantity":"3","Weight":"","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"2","autre_info":"kk"},{"Description":"PUR PORC A L AIL","Date_Forthe":"2018-12-11","OrderID":"67","Quantity":"4","Weight":"","CustomerLN":"SEO","sous_vide":"Non","nbre_pers":"4","autre_info":"bb"}]},"1":{"product":"FILET FUME"},"2":{"product":"PETIT SALE"},"3":{"product":"PUR PORC A L AIL"},"4":{"product":"SAUCISSON JAMBON"}}}
+
+
+        {"distinctProducts":["ASSAISONNEMENT","FILET FUME","PETIT SALE","PUR PORC A L AIL","SAUCISSON JAMBON"],
+            "recap":[{"product":"ASSAISONNEMENT",
+                "0":{"Description":"ASSAISONNEMENT","Date_Forthe":"2018-12-11","OrderID":"21","Quantity":"1","Weight":"2","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"3","autre_info":"4"}},{"product":"FILET FUME","0":{"Description":"FILET FUME","Date_Forthe":"2018-12-11","OrderID":"52","Quantity":"5","Weight":"5","CustomerLN":"SEO","sous_vide":"Non","nbre_pers":"5","autre_info":"5"}},{"product":"PETIT SALE","0":{"Description":"PETIT SALE","Date_Forthe":"2018-12-11","OrderID":"54","Quantity":"1","Weight":"1","CustomerLN":"SEO","sous_vide":"Non","nbre_pers":"1","autre_info":"1"}},{"product":"PUR PORC A L AIL","0":{"Description":"PUR PORC A L AIL","Date_Forthe":"2018-12-11","OrderID":"45","Quantity":"4","Weight":"4","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"4","autre_info":"4"},"1":{"Description":"PUR PORC A L AIL","Date_Forthe":"2018-12-11","OrderID":"66","Quantity":"2","Weight":"","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"1","autre_info":"hh"},"2":{"Description":"PUR PORC A L AIL","Date_Forthe":"2018-12-11","OrderID":"66","Quantity":"3","Weight":"","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"2","autre_info":"kk"},"3":{"Description":"PUR PORC A L AIL","Date_Forthe":"2018-12-11","OrderID":"67","Quantity":"4","Weight":"","CustomerLN":"SEO","sous_vide":"Non","nbre_pers":"4","autre_info":"bb"}},{"product":"SAUCISSON JAMBON","0":{"Description":"SAUCISSON JAMBON","Date_Forthe":"2018-12-11","OrderID":"53","Quantity":"1","Weight":"1","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"1","autre_info":"1"}}]}
+
+
+                "distinctProducts":["ASSAISONNEMENT","FILET FUME","PETIT SALE","PUR PORC A L AIL","SAUCISSON JAMBON"],
+                "recap":{"0":{"product":"ASSAISONNEMENT"},"product":[{"Description":"SAUCISSON JAMBON","Date_Forthe":"2018-12-11","OrderID":"53","Quantity":"1","Weight":"1","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"1","autre_info":"1"},{"Description":"PUR PORC A L AIL","Date_Forthe":"2018-12-11","OrderID":"66","Quantity":"2","Weight":"","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"1","autre_info":"hh"},{"Description":"PUR PORC A L AIL","Date_Forthe":"2018-12-11","OrderID":"66","Quantity":"3","Weight":"","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"2","autre_info":"kk"},{"Description":"PUR PORC A L AIL","Date_Forthe":"2018-12-11","OrderID":"67","Quantity":"4","Weight":"","CustomerLN":"SEO","sous_vide":"Non","nbre_pers":"4","autre_info":"bb"}],"1":{"product":"FILET FUME"},"2":{"product":"PETIT SALE"},"3":{"product":"PUR PORC A L AIL"},"4":{"product":"SAUCISSON JAMBON"}}}
+
+                Traffic
+Sales
+Support
+{"distinctProducts":["ASSAISONNEMENT","FILET FUME","PETIT SALE","PUR PORC A L AIL","SAUCISSON JAMBON"],"recap":["ASSAISONNEMENT","FILET FUME","PETIT SALE","PUR PORC A L AIL","SAUCISSON JAMBON"]}
+
+
+
+{"distinctProducts":["ASSAISONNEMENT","FILET FUME","PETIT SALE","PUR PORC A L AIL","SAUCISSON JAMBON"],
+    "recap":
+[{"name":"ASSAISONNEMENT","details":
+        [{"Description":"ASSAISONNEMENT","Date_Forthe":"2018-12-11"}]},
+{"name":"FILET FUME","details":
+        [{"Description":"FILET FUME","Date_Forthe":"2018-12-11"}]},
+{"name":"PETIT SALE","details":[{"Description":"PETIT SALE","Date_Forthe":"2018-12-11"}]},
+{"name":"PUR PORC A L AIL","details":
+    [{"Description":"PUR PORC A L AIL","Date_Forthe":"2018-12-11"},
+     {"Description":"PUR PORC A L AIL","Date_Forthe":"2018-12-11"},
+     {"Description":"PUR PORC A L AIL","Date_Forthe":"2018-12-11"},
+     {"Description":"PUR PORC A L AIL","Date_Forthe":"2018-12-11"}]},
+{"name":"SAUCISSON JAMBON","details":
+    [{"Description":"SAUCISSON JAMBON","Date_Forthe":"2018-12-11"}]}
+]}
+
+
+{"distinctProducts":["ASSAISONNEMENT","FILET FUME","PETIT SALE","PUR PORC A L AIL","SAUCISSON JAMBON"],
+    "recap":
+    [{"name":"ASSAISONNEMENT",
+        "details":[{"Description":"ASSAISONNEMENT","Date_Forthe":"2018-12-11","OrderID":"21","Quantity":"1","Weight":"2","CustomerLN":"JACQMART",           "sous_vide":"Non","nbre_pers":"3","autre_info":"4"}],
+        "occurencenombre":{"1":{"nombre":"1","count":"1"}}},
+    {"name":"FILET FUME","details":[{"Description":"FILET FUME","Date_Forthe":"2018-12-11","OrderID":"52","Quantity":"5","Weight":"5","CustomerLN":"SEO","sous_vide":"Non","nbre_pers":"5","autre_info":"5"}],"occurencenombre":{"1":{"nombre":"5","count":"1"}}},{"name":"PETIT SALE","details":[{"Description":"PETIT SALE","Date_Forthe":"2018-12-11","OrderID":"54","Quantity":"1","Weight":"1","CustomerLN":"SEO","sous_vide":"Non","nbre_pers":"1","autre_info":"1"}],"occurencenombre":{"1":{"nombre":"1","count":"1"}}},{"name":"PUR PORC A L AIL","details":[{"Description":"PUR PORC A L AIL","Date_Forthe":"2018-12-11","OrderID":"45","Quantity":"4","Weight":"4","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"4","autre_info":"4"},{"Description":"PUR PORC A L AIL","Date_Forthe":"2018-12-11","OrderID":"66","Quantity":"2","Weight":"","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"1","autre_info":"hh"},{"Description":"PUR PORC A L AIL","Date_Forthe":"2018-12-11","OrderID":"66","Quantity":"3","Weight":"","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"2","autre_info":"kk"},{"Description":"PUR PORC A L AIL","Date_Forthe":"2018-12-11","OrderID":"67","Quantity":"4","Weight":"","CustomerLN":"SEO","sous_vide":"Non","nbre_pers":"4","autre_info":"bb"}],"occurencenombre":{"4":{"nombre":"2","count":"1"},"5":{"nombre":"3","count":"1"},"6":{"nombre":"4","count":"2"}}},{"name":"SAUCISSON JAMBON","details":[{"Description":"SAUCISSON JAMBON","Date_Forthe":"2018-12-11","OrderID":"53","Quantity":"1","Weight":"1","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"1","autre_info":"1"}],"occurencenombre":{"1":{"nombre":"1","count":"1"}}}]}
+
+
+
+    {"distinctProducts":["ASSAISONNEMENT","FILET FUME","PETIT SALE","PUR PORC A L AIL","SAUCISSON JAMBON"],
+        "recap":
+        [{"name":"ASSAISONNEMENT","details":[{"Description":"ASSAISONNEMENT","Date_Forthe":"2018-12-11","OrderID":"21","Quantity":"1","Weight":"2","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"3","autre_info":"4"}],"occurencenombre":[{"nombre":"1","count":"1"}]},{"name":"FILET FUME",
+        "details":[{"Description":"FILET FUME","Date_Forthe":"2018-12-11","OrderID":"52","Quantity":"5","Weight":"5","CustomerLN":"SEO","sous_vide":"Non","nbre_pers":"5","autre_info":"5"}],
+        "occurencenombre":[{"nombre":"5","count":"1"}]},
+        {"name":"PETIT SALE","details":[{"Description":"PETIT SALE","Date_Forthe":"2018-12-11","OrderID":"54","Quantity":"1","Weight":"1","CustomerLN":"SEO","sous_vide":"Non","nbre_pers":"1","autre_info":"1"}],"occurencenombre":[{"nombre":"1","count":"1"}]},
+        {"name":"PUR PORC A L AIL",
+            "details":[{"Description":"PUR PORC A L AIL","Date_Forthe":"2018-12-11","OrderID":"45","Quantity":"4","Weight":"4","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"4","autre_info":"4"},
+                {"Description":"PUR PORC A L AIL","Date_Forthe":"2018-12-11","OrderID":"66","Quantity":"2","Weight":"","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"1","autre_info":"hh"},{"Description":"PUR PORC A L AIL","Date_Forthe":"2018-12-11","OrderID":"66","Quantity":"3","Weight":"","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"2","autre_info":"kk"},{"Description":"PUR PORC A L AIL","Date_Forthe":"2018-12-11","OrderID":"67","Quantity":"4","Weight":"","CustomerLN":"SEO","sous_vide":"Non","nbre_pers":"4","autre_info":"bb"}],
+                "occurencenombre":
+                [{"nombre":"2","count":"1"},
+                {"nombre":"3","count":"1"},
+                {"nombre":"4","count":"2"}]},
+            {"name":"SAUCISSON JAMBON","details":[{"Description":"SAUCISSON JAMBON","Date_Forthe":"2018-12-11","OrderID":"53","Quantity":"1","Weight":"1","CustomerLN":"JACQMART","sous_vide":"Non","nbre_pers":"1","autre_info":"1"}],"occurencenombre":[{"nombre":"1","count":"1"}]}]}
