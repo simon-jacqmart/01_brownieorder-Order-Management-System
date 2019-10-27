@@ -213,14 +213,14 @@
           </div>
           <div class="col-md-4 mb-4">
             <div class="w-3 mx-auto">
-              <canvas id="myCanvas"
+             <!-- <canvas id="myCanvas"
                 class="ex-graph"
                 width="200" height="200"
                 data-chart="doughnut"
                 data-dataset="[1,5, 1, 13, 1]"
                 data-dataset-options="{ borderColor: '#252830', backgroundColor: ['#1ca8dd', '#1bc98e','#1ca8dd','#1bc98e','#1ca8dd' ] }"
                 data-labels="['ASSAISONNEMENT', 'FILET FUME', 'PETIT SALE', 'PUR PORC A L AIL', 'SAUCISSON JAMBON', ]">
-              </canvas>
+              </canvas>-->
                 
               <canvas id="myChart" width="400" height="400"></canvas>
 
@@ -228,8 +228,7 @@
      
 
             </div>
-            <strong class="text-muted">Pas fonctionnel</strong>
-            <h4>Representation des differents produits</h4>
+             <h4>Representation des differents produits- scroll right</h4>
           </div>
           <div class="col-md-4 mb-5">
             <div class="w-3 mx-auto">
@@ -530,7 +529,12 @@
 
     <script>
         var chartData= new Array();
+        var chartLabels = new Array();
+        var chartBackgroundColor = new Array();
         var x ;
+        var y;
+        var z;
+        z=0; //z is used to apply different colors between even and odd numbers
         $(document).ready(function(){
             
             
@@ -604,20 +608,32 @@
                             '</div>')
                             $("#recapOneDay").append(mytableRecapOneDayDetails);
                           //attempt to create an array for the chart
-                          //chartData[k]=response.recap[a].total2;
+                          //create chartdata for the bar chart myChart size
                           chartData.push(response.recap[a].total2);
-                          
-                          //alert (charData.join("\n"));
+                          chartLabels.push(response.recap[a].name);
+
+                          if ( z % 2 == 0) {
+                            chartBackgroundColor.push('#1ca8dd');
+                          }else{
+                            chartBackgroundColor.push('#1bc98e');
+                          }    
+                          z=z+1;
+
                            x = chartData.toString();
-                                  /*if (typeof x!= "undefined") {
-            
-                                    alert(x);
-                                    }*/
-                          $("#jsonchart1").html(x);
-                          myChart.render();
-                           myChart.data = chartData;
+                           y = chartLabels.toString();
+
+
+
+                          $("#jsonchart1").append(response.recap[a].total2);
+                          $("#jsonchart1").append(" ");
+                          $("#jsonchart1").append(response.recap[a].name);
+                          $("#jsonchart1").append(" ");
+
+                         
+                           //myChart.data = chartData;
+                           //myChart.labels= chartLabels;
                             myChart.update();
-                            myChart.render(); 
+                            //myChart.render(); 
                           //alert(x);
                           
                           //k=k+1;
@@ -699,25 +715,16 @@ var ctx = document.getElementById('myChart').getContext('2d');
 var myChart = new Chart(ctx, {
     type: 'bar',
     data: {
-        labels: ['Filet', 'Pate', 'Saucisson'],
+        //labels: ['Filet', 'Pate', 'Saucisson'],
+        labels: chartLabels,
         datasets: [{
-            label: '# de produits',
+            label: 'Nbre de produits',
             data: chartData,
-            backgroundColor: [
-                'rgba(255, 99, 132, 0.2)',
-                'rgba(54, 162, 235, 0.2)',
-                'rgba(255, 206, 86, 0.2)',
-                'rgba(75, 192, 192, 0.2)',
-                'rgba(153, 102, 255, 0.2)',
-                'rgba(255, 159, 64, 0.2)'
-            ],
+            backgroundColor: chartBackgroundColor,
             borderColor: [
-                'rgba(255, 99, 132, 1)',
-                'rgba(54, 162, 235, 1)',
-                'rgba(255, 206, 86, 1)',
-                'rgba(75, 192, 192, 1)',
-                'rgba(153, 102, 255, 1)',
-                'rgba(255, 159, 64, 1)'
+                '#252830',
+                '#252830',
+                '#252830'
             ],
             borderWidth: 1
         }]
@@ -732,14 +739,12 @@ var myChart = new Chart(ctx, {
         }
     }
 });
-                myChart.data = chartData;
-                myChart.update();
-                myChart.render();        
+    
 
             });//button click
-            myChart.render();
+    
         }); //ready
-        myChart.render();
+
     </script>
             <script>
             window.onload = function () {
@@ -769,26 +774,18 @@ var myChart = new Chart(ctx, {
                     ]
                 }]
             });
-            chart.render();
+           
 
             }
             </script>
     
     <script>
  
-        //alert("my chart");
-        //var x = chartData.toString();
-        window.onload = function () {
-         myChart.data = chartData;
-         myChart.update();
-         myChart.render(); 
+
         });
             
             
-            $(document).ready(function(){
-                myChart.data = chartData;
-                myChart.update();
-                myChart.render();
+
             });
 
 </script>
