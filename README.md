@@ -1,5 +1,5 @@
 # 01_brownieorder
-Order Management Web Application
+Order Management Web Application (PHP, mySQL, javascript)
 
 Web Application to take customers’ orders and sort out the products to be prepared each day.
 The particularity is to take into account the weight of the products. PHP/ MySQL / JavaScript / JSON/ CSS/ Bootstrap
